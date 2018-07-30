@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: FindServices
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jsena
+Implementation-Vendor-Id: FindServices
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/FindServices
+Created-By: Maven Integration for Eclipse
+
